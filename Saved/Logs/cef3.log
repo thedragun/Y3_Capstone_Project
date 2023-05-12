@@ -1,0 +1,16 @@
+[0509/143753.273:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0509/143753.300:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0509/143753.300:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0509/143753.302:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0509/143753.302:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0509/143753.302:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0509/143753.302:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0509/143753.303:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0509/143753.303:ERROR:shared_image_manager.cc(188)] SharedImageManager::ProduceGLTexturePassthrough: Trying to produce a representation from a non-existent mailbox.
+[0509/143753.303:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: invalid mailbox name.
+[0509/143753.303:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0509/143753.303:ERROR:gl_utils.cc(316)] [.DisplayCompositor] GL_INVALID_OPERATION: texture is not a shared image
+[0509/143954.325:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0509/143954.341:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
+[0509/143954.486:ERROR:batching_media_log.cc(38)] MediaEvent: {"error":"FFmpegDemuxer: no supported streams"}
+[0509/143954.486:ERROR:batching_media_log.cc(35)] MediaEvent: {"pipeline_error":14}
